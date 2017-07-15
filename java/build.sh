@@ -1,0 +1,1 @@
+docker build -t hedu/base:ubuntu16.04-jdk8 .
